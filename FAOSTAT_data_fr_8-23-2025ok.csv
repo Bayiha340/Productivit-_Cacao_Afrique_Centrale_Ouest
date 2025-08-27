@@ -1,0 +1,100 @@
+﻿Nom_Pays;Nom_Indicateur;Nom_Culture;Année;Unité_Indicateur;Valeur;Flag;Description du Symbole;IDIndicateurs;IDCulture;IDAnnée;IDPays;IDFlag
+Cameroun;Superficie récoltée;Cacao, fèves;2012;ha;670000;E;Valeur estimée;1;1;1;1;1
+Cameroun;Rendement;Cacao, fèves;2012;kg/ha;401.4;E;Valeur estimée;2;2;2;2;2
+Cameroun;Production;Cacao, fèves;2012;tonnes;268941;A;Chiffre officiel;3;3;3;3;3
+Cameroun;Superficie récoltée;Cacao, fèves;2013;ha;670000;E;Valeur estimée;4;4;4;4;4
+Cameroun;Rendement;Cacao, fèves;2013;kg/ha;410.4;E;Valeur estimée;5;5;5;5;5
+Cameroun;Production;Cacao, fèves;2013;tonnes;275000;A;Chiffre officiel;6;6;6;6;6
+Cameroun;Superficie récoltée;Cacao, fèves;2014;ha;714261;I;Valeur imputée;7;7;7;7;7
+Cameroun;Rendement;Cacao, fèves;2014;kg/ha;376.9;E;Valeur estimée;8;8;8;8;8
+Cameroun;Production;Cacao, fèves;2014;tonnes;269228;I;Valeur imputée;9;9;9;9;9
+Cameroun;Superficie récoltée;Cacao, fèves;2015;ha;767555;I;Valeur imputée;10;10;10;10;10
+Cameroun;Rendement;Cacao, fèves;2015;kg/ha;403.9;E;Valeur estimée;11;11;11;11;11
+Cameroun;Production;Cacao, fèves;2015;tonnes;310000;X;Chiffre de sources internationales;12;12;12;12;12
+Cameroun;Superficie récoltée;Cacao, fèves;2016;ha;520947;I;Valeur imputée;13;13;13;13;13
+Cameroun;Rendement;Cacao, fèves;2016;kg/ha;661.8;E;Valeur estimée;14;14;14;14;14
+Cameroun;Production;Cacao, fèves;2016;tonnes;344752;A;Chiffre officiel;15;15;15;15;15
+Cameroun;Superficie récoltée;Cacao, fèves;2017;ha;771917;A;Chiffre officiel;16;16;16;16;16
+Cameroun;Rendement;Cacao, fèves;2017;kg/ha;417.5;A;Chiffre officiel;17;17;17;17;17
+Cameroun;Production;Cacao, fèves;2017;tonnes;322247.8;A;Chiffre officiel;18;18;18;18;18
+Cameroun;Superficie récoltée;Cacao, fèves;2018;ha;659017;A;Chiffre officiel;19;19;19;19;19
+Cameroun;Rendement;Cacao, fèves;2018;kg/ha;481.8;A;Chiffre officiel;20;20;20;20;20
+Cameroun;Production;Cacao, fèves;2018;tonnes;317530.3;A;Chiffre officiel;21;21;21;21;21
+Cameroun;Superficie récoltée;Cacao, fèves;2019;ha;672618;A;Chiffre officiel;22;22;22;22;22
+Cameroun;Rendement;Cacao, fèves;2019;kg/ha;447.9;A;Chiffre officiel;23;23;23;23;23
+Cameroun;Production;Cacao, fèves;2019;tonnes;301255.2;A;Chiffre officiel;24;24;24;24;24
+Cameroun;Superficie récoltée;Cacao, fèves;2020;ha;578736;A;Chiffre officiel;25;25;25;25;25
+Cameroun;Rendement;Cacao, fèves;2020;kg/ha;483.9;A;Chiffre officiel;26;26;26;26;26
+Cameroun;Production;Cacao, fèves;2020;tonnes;280077;A;Chiffre officiel;27;27;27;27;27
+Cameroun;Superficie récoltée;Cacao, fèves;2021;ha;608385;I;Valeur imputée;28;28;28;28;28
+Cameroun;Rendement;Cacao, fèves;2021;kg/ha;484.9;E;Valeur estimée;29;29;29;29;29
+Cameroun;Production;Cacao, fèves;2021;tonnes;295000;X;Chiffre de sources internationales;30;30;30;30;30
+Cameroun;Superficie récoltée;Cacao, fèves;2022;ha;596160;I;Valeur imputée;31;31;31;31;31
+Cameroun;Rendement;Cacao, fèves;2022;kg/ha;486.4;E;Valeur estimée;32;32;32;32;32
+Cameroun;Production;Cacao, fèves;2022;tonnes;290000;X;Chiffre de sources internationales;33;33;33;33;33
+Côte d'Ivoire;Superficie récoltée;Cacao, fèves;2012;ha;2746080;I;Valeur imputée;34;34;34;34;34
+Côte d'Ivoire;Rendement;Cacao, fèves;2012;kg/ha;541.1;E;Valeur estimée;35;35;35;35;35
+Côte d'Ivoire;Production;Cacao, fèves;2012;tonnes;1485882;A;Chiffre officiel;36;36;36;36;36
+Côte d'Ivoire;Superficie récoltée;Cacao, fèves;2013;ha;2731411;I;Valeur imputée;37;37;37;37;37
+Côte d'Ivoire;Rendement;Cacao, fèves;2013;kg/ha;530.5;E;Valeur estimée;38;38;38;38;38
+Côte d'Ivoire;Production;Cacao, fèves;2013;tonnes;1448992;A;Chiffre officiel;39;39;39;39;39
+Côte d'Ivoire;Superficie récoltée;Cacao, fèves;2014;ha;3084498;I;Valeur imputée;40;40;40;40;40
+Côte d'Ivoire;Rendement;Cacao, fèves;2014;kg/ha;531;E;Valeur estimée;41;41;41;41;41
+Côte d'Ivoire;Production;Cacao, fèves;2014;tonnes;1637777.56;I;Valeur imputée;42;42;42;42;42
+Côte d'Ivoire;Superficie récoltée;Cacao, fèves;2015;ha;3458163;I;Valeur imputée;43;43;43;43;43
+Côte d'Ivoire;Rendement;Cacao, fèves;2015;kg/ha;519.4;E;Valeur estimée;44;44;44;44;44
+Côte d'Ivoire;Production;Cacao, fèves;2015;tonnes;1796000;A;Chiffre officiel;45;45;45;45;45
+Côte d'Ivoire;Superficie récoltée;Cacao, fèves;2016;ha;3168749;I;Valeur imputée;46;46;46;46;46
+Côte d'Ivoire;Rendement;Cacao, fèves;2016;kg/ha;515.7;E;Valeur estimée;47;47;47;47;47
+Côte d'Ivoire;Production;Cacao, fèves;2016;tonnes;1634000;A;Chiffre officiel;48;48;48;48;48
+Côte d'Ivoire;Superficie récoltée;Cacao, fèves;2017;ha;3982695;I;Valeur imputée;49;49;49;49;49
+Côte d'Ivoire;Rendement;Cacao, fèves;2017;kg/ha;510.7;E;Valeur estimée;50;50;50;50;50
+Côte d'Ivoire;Production;Cacao, fèves;2017;tonnes;2034000;A;Chiffre officiel;51;51;51;51;51
+Côte d'Ivoire;Superficie récoltée;Cacao, fèves;2018;ha;4072832;I;Valeur imputée;52;52;52;52;52
+Côte d'Ivoire;Rendement;Cacao, fèves;2018;kg/ha;518.9;E;Valeur estimée;53;53;53;53;53
+Côte d'Ivoire;Production;Cacao, fèves;2018;tonnes;2113189;A;Chiffre officiel;54;54;54;54;54
+Côte d'Ivoire;Superficie récoltée;Cacao, fèves;2019;ha;4308544;I;Valeur imputée;55;55;55;55;55
+Côte d'Ivoire;Rendement;Cacao, fèves;2019;kg/ha;518.7;E;Valeur estimée;56;56;56;56;56
+Côte d'Ivoire;Production;Cacao, fèves;2019;tonnes;2235043;A;Chiffre officiel;57;57;57;57;57
+Côte d'Ivoire;Superficie récoltée;Cacao, fèves;2020;ha;4309160;I;Valeur imputée;58;58;58;58;58
+Côte d'Ivoire;Rendement;Cacao, fèves;2020;kg/ha;510.5;E;Valeur estimée;59;59;59;59;59
+Côte d'Ivoire;Production;Cacao, fèves;2020;tonnes;2200000;A;Chiffre officiel;60;60;60;60;60
+Côte d'Ivoire;Superficie récoltée;Cacao, fèves;2021;ha;4416359;I;Valeur imputée;61;61;61;61;61
+Côte d'Ivoire;Rendement;Cacao, fèves;2021;kg/ha;504.6;E;Valeur estimée;62;62;62;62;62
+Côte d'Ivoire;Production;Cacao, fèves;2021;tonnes;2228459;A;Chiffre officiel;63;63;63;63;63
+Côte d'Ivoire;Superficie récoltée;Cacao, fèves;2022;ha;4716003;I;Valeur imputée;64;64;64;64;64
+Côte d'Ivoire;Rendement;Cacao, fèves;2022;kg/ha;500.2;E;Valeur estimée;65;65;65;65;65
+Côte d'Ivoire;Production;Cacao, fèves;2022;tonnes;2358991;A;Chiffre officiel;66;66;66;66;66
+Ghana;Superficie récoltée;Cacao, fèves;2012;ha;1600300;A;Chiffre officiel;67;67;67;67;67
+Ghana;Rendement;Cacao, fèves;2012;kg/ha;549.5;A;Chiffre officiel;68;68;68;68;68
+Ghana;Production;Cacao, fèves;2012;tonnes;879348;A;Chiffre officiel;69;69;69;69;69
+Ghana;Superficie récoltée;Cacao, fèves;2013;ha;1600300;A;Chiffre officiel;70;70;70;70;70
+Ghana;Rendement;Cacao, fèves;2013;kg/ha;522.1;A;Chiffre officiel;71;71;71;71;71
+Ghana;Production;Cacao, fèves;2013;tonnes;835466;A;Chiffre officiel;72;72;72;72;72
+Ghana;Superficie récoltée;Cacao, fèves;2014;ha;1683765;A;Chiffre officiel;73;73;73;73;73
+Ghana;Rendement;Cacao, fèves;2014;kg/ha;510;A;Chiffre officiel;74;74;74;74;74
+Ghana;Production;Cacao, fèves;2014;tonnes;858720;A;Chiffre officiel;75;75;75;75;75
+Ghana;Superficie récoltée;Cacao, fèves;2015;ha;1683765;A;Chiffre officiel;76;76;76;76;76
+Ghana;Rendement;Cacao, fèves;2015;kg/ha;510;A;Chiffre officiel;77;77;77;77;77
+Ghana;Production;Cacao, fèves;2015;tonnes;858720;A;Chiffre officiel;78;78;78;78;78
+Ghana;Superficie récoltée;Cacao, fèves;2016;ha;1683765;X;Chiffre de sources internationales;79;79;79;79;79
+Ghana;Rendement;Cacao, fèves;2016;kg/ha;510;X;Chiffre de sources internationales;80;80;80;80;80
+Ghana;Production;Cacao, fèves;2016;tonnes;858720;X;Chiffre de sources internationales;81;81;81;81;81
+Ghana;Superficie récoltée;Cacao, fèves;2017;ha;1863830;I;Valeur imputée;82;82;82;82;82
+Ghana;Rendement;Cacao, fèves;2017;kg/ha;520.1;E;Valeur estimée;83;83;83;83;83
+Ghana;Production;Cacao, fèves;2017;tonnes;969300;X;Chiffre de sources internationales;84;84;84;84;84
+Ghana;Superficie récoltée;Cacao, fèves;2018;ha;1726616;I;Valeur imputée;85;85;85;85;85
+Ghana;Rendement;Cacao, fèves;2018;kg/ha;524;E;Valeur estimée;86;86;86;86;86
+Ghana;Production;Cacao, fèves;2018;tonnes;904700;X;Chiffre de sources internationales;87;87;87;87;87
+Ghana;Superficie récoltée;Cacao, fèves;2019;ha;1536624;I;Valeur imputée;88;88;88;88;88
+Ghana;Rendement;Cacao, fèves;2019;kg/ha;528.2;E;Valeur estimée;89;89;89;89;89
+Ghana;Production;Cacao, fèves;2019;tonnes;811700;X;Chiffre de sources internationales;90;90;90;90;90
+Ghana;Superficie récoltée;Cacao, fèves;2020;ha;1476750;I;Valeur imputée;91;91;91;91;91
+Ghana;Rendement;Cacao, fèves;2020;kg/ha;541.7;E;Valeur estimée;92;92;92;92;92
+Ghana;Production;Cacao, fèves;2020;tonnes;800000;A;Chiffre officiel;93;93;93;93;93
+Ghana;Superficie récoltée;Cacao, fèves;2021;ha;1895400;I;Valeur imputée;94;94;94;94;94
+Ghana;Rendement;Cacao, fèves;2021;kg/ha;552.6;E;Valeur estimée;95;95;95;95;95
+Ghana;Production;Cacao, fèves;2021;tonnes;1047385;A;Chiffre officiel;96;96;96;96;96
+Ghana;Superficie récoltée;Cacao, fèves;2022;ha;1219305;I;Valeur imputée;97;97;97;97;97
+Ghana;Rendement;Cacao, fèves;2022;kg/ha;560.4;E;Valeur estimée;98;98;98;98;98
+Ghana;Production;Cacao, fèves;2022;tonnes;683300;X;Chiffre de sources internationales;99;99;99;99;99
